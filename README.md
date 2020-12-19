@@ -1,11 +1,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jatinjain001/lets-hack) ![Node.js](https://img.shields.io/badge/node%20js-v14.15.3-red)
 
-## Team ConfideIn
   
 <br/>
 <p align="center">
   <a href="https://github.com/jatinjain001/lets-hack" >
-    <img src="assets/6OEYgIQ - Imgur.png" alt="Logo" width="250" height="100">
+    <img src="https://raw.githubusercontent.com/jatinjain001/Lets-Hack/main/circle-cropped-removebg-preview%20(4).png"  width="250" height="250">
   </a>
   
   
