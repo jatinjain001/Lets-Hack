@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "base-chat"
+  "defaultProject": "base-chat",
+  "cli": {
+    "analytics": "ae62fe38-40a5-4551-b704-00369693909d"
+  }
 }
