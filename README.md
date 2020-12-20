@@ -20,9 +20,9 @@
 
 
 ## About the Project
-In our prespective as we are all users of LinkedIn social media platform. But as on linkedin we are not able to search the connections skills wise, district wise, College wise. So as we look at it we think we can do it then this is the advanced version of linkedin. Here you can search your relatives by enter the name of the user or by doing filter search using filter fields like college name, city, skills etc.
+In our prespective as we are all users of LinkedIn social media platform. But as on linkedin we are not able to search the connections skills wise, city wise, College wise. So as we look at it we think we can do it then this is the advanced version of linkedin. Here you can search the persons with whom you want to connect by entering the name of the user or by doing filter search using filter fields like college name, city, skills etc.
 
-##### Warning :- Please do not compare it with linkedin. because we are implementing only Optimize search filter only 
+##### Warning :- Please do not compare it with linkedin. because we are trying to optimize the search filter through which we can find the persons with the help of some important feilds like skills,city and college. 
 
 
 
