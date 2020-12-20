@@ -1,4 +1,4 @@
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jatinjain001/lets-hack) ![Node.js](https://img.shields.io/badge/node%20js-v14.15.3-red)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jatinjain001/lets-hack) ![Angular.js](https://img.shields.io/badge/angular%20js-v14.15.3-red)
 
   
 <br/>
